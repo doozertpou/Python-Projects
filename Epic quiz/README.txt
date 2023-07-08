@@ -1,0 +1,1 @@
+This project is just a silly quiz I made in Python.
